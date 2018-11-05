@@ -4,15 +4,9 @@ permalink: "/about/"
 layout: default
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+About Tiffy
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Tiffy is a travel planning freak, formerly an Asia Pacific finance manager and currently a digital marketing ninja. Despite being a nervous flyer with plane jolts sending chills down her spine, Tiffy’s wanderlust has led her to visit Japan for 6 times (and counting). Her favorite cities are Kyoto and Tokyo and would choose to visit Japan over Paris in a heartbeat! 
+“Don't listen to what they say. Go see.”
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+\
